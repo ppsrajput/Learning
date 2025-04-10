@@ -1,0 +1,4 @@
+Limitations of python
+
+ 1. Performance.
+ 2. Mobile Applications.
